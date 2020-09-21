@@ -425,22 +425,27 @@ ol {
 
 .hero {
 }
+.hero__text{
+	background color: #A9BEF7;
+}
+
 
 .hero__text span {
-	font-size: 15px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #A9BEF7;
 	text-transform: uppercase;
 	display: block;
+	margin-bottom: 20px;
 }
 
 .hero__text h2 {
 	font-size: 48px;
-	color: #111111;
+	color: #ffffff;
 	font-weight: 700;
 	line-height: 60px;
-	margin-top: 10px;
-	margin-bottom: 35px;
+	margin-top: 20px;
+	margin-bottom: 15px;
 }
 
 /*---------------------
