@@ -108,15 +108,20 @@ ol {
 	margin: 0;
 }
 
+
+.purple {
+		background-color: #A9BEF7;
+}
+
 .quote{
 	font-family: 'IM Fell Double Pica', serif;
 	font-style: italic;
-	font-size: 20px;
-	border-radius: 5px;
-	background-color: #A9BEF7;
-	margin-top: 30px;
+	font-size: 22px;
+	padding: 45px 30px 30px 30px;
 	text-align: center;
+	color: #fff;
 }
+
 
 /*---------------------
   Helper CSS
