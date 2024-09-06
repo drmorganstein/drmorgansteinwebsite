@@ -488,6 +488,11 @@ ol {
 	
 }
 
+.hero__text h1 {
+	color: #ffffff;
+	font-weight: 700;
+}
+
 .hero__text h2 {
 	font-size: 48px;
 	color: #ffffff;
