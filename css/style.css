@@ -1197,6 +1197,13 @@ ol {
 	margin-bottom: 10px;
 }
 
+.breadcrumb__text h1 {
+	color: #ffffff;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
 .breadcrumb__links a {
 	font-size: 15px;
 	color: #ffffff;
