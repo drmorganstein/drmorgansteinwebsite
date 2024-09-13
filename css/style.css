@@ -1,4 +1,4 @@
-
+.hero__text h2
 /******************************************************************
 	Templater Name: Aesthetic
 	Description: Aesthetic medical template
@@ -2892,6 +2892,11 @@ ol {
 @media only screen and (max-width: 479px) {
 	.header__logo img{
 		width: 80%;
+	}
+
+	.hero__text h1 {
+		font-size: 36px;
+		line-height: 46px;
 	}
 
 	.hero__text h2 {
